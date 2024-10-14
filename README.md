@@ -1,7 +1,7 @@
 
 # <center> **Multimodal RAG** </center>
 
-Build your own **Multimodal RAG** Application using less than 300 lines of code.
+Build your own **Multimodal RAG** Application
 
 You can talk to any documents with LLM including Word, PPT, CSV, PDF, Email, HTML, Evernote, Video and image.
 
@@ -31,7 +31,7 @@ You can talk to any documents with LLM including Word, PPT, CSV, PDF, Email, HTM
     - **Clone repo and install dependencies**
     
       ```bash
-      git clone https://github.com/13331112522/m-rag.git
+      git clone https://github.com/tejasri19/Multimodal-RAG.git
       cd m-rag
       python -m pip install -r requirements.txt
       cp example.env .env
