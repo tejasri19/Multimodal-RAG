@@ -5,10 +5,6 @@ Build your own **Multimodal RAG** Application
 
 You can talk to any documents with LLM including Word, PPT, CSV, PDF, Email, HTML, Evernote, Video and image.
 
-<img src='pics/ingest.png' width='40%' align='center'>
-<img src='pics/query.png' width='40%' align='center'>
-<img src='pics/pdf.png' width='40%' align='center'>
-<img src='pics/docx.png' width='40%' align='center'>
 
 * **Features**
     - Ingest your videos and pictures  with Multimodal LLM
